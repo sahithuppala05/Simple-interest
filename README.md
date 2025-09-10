@@ -25,3 +25,5 @@ The script uses the standard simple interest formula:
 To install `bc` on Ubuntu/Debian if needed:
 ```bash
 sudo apt-get install bc
+
+[ 2025 Sahith, Inc. ]
